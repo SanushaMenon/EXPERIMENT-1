@@ -1,0 +1,19 @@
+//PRN: 22070123099
+//EXP.1
+//NAME: SANUSHA MENON
+
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    //PRINT 'HELLO WORLD' AND 'MY FIRST PROGRAM'
+    cout<<"Hello World"<<endl;
+    cout<<"My first program"<<endl;
+}
+    /*/OUTPUT
+    Hello World
+    My first program
+    /*/
+
+  
