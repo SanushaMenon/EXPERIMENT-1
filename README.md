@@ -7,7 +7,6 @@ THEORY
 C++ supports a wide variety of data types and the programmer can select the data type appropriate to the needs of the application. Data types specify the size and types of values to be stored.
 The data type specifies the size and type of information the variable will store:
 
-Data Type	Size	Description
 boolean	1 byte	Stores true or false values
 
 char	1 byte	Stores a single character/letter/number, or ASCII values
